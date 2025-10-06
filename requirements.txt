@@ -1,0 +1,2 @@
+# Adaptive Bayesian Classifier Requirements
+numpy>=1.22
